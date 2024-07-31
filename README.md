@@ -5,23 +5,23 @@ National Cranberry Cooperative (NCC) aimed to enhance its capacity planning to r
 
  Project Details:
 
-1. Process Flow Diagram:**
+1. Process Flow Diagram:
     - Developed a detailed process flow diagram to map out the entire cranberry processing workflow.
     - Identified key areas within the processing line, specifically focusing on capacities and potential bottlenecks that could hinder the efficiency.
 
-2. **Simulation Analysis:**
+2. Simulation Analysis:
     - Conducted three simulations focusing on the dryer area, a critical part of the processing line.
     - Each simulation was designed to test the impact of different capacity enhancement strategies on the overall processing time and truck waiting times.
 
-3. **Results:**
+3. Results:**
     - The simulation results indicated that adding additional dryers would effectively eliminate the waiting times for trucks.
     - This led to a smoother flow through the processing line, ensuring timely processing of cranberries.
 
-4. **Financial Analysis:**
+4. Financial Analysis:
     - A comprehensive financial analysis was conducted to evaluate the return on investment (ROI) for adding new dryers.
     - The analysis considered the costs of purchasing and installing new dryers against the benefits of reduced waiting times and increased efficiency.
 
-5. **Recommendations:**
+5. Recommendations:
     - Based on the positive simulation results and financial analysis, it was recommended that NCC invest in additional dryers.
     - The investment was projected to have a positive ROI and significantly improve the processing efficiency.
 
