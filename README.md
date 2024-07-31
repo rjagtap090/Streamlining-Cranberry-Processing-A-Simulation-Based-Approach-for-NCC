@@ -27,20 +27,20 @@ National Cranberry Cooperative (NCC) aimed to enhance its capacity planning to r
 
 Skills Demonstrated:
 - Business Process Analysis:** Thorough analysis of the cranberry processing workflow to identify bottlenecks and inefficiencies.
-- Financial Modeling:** Detailed financial analysis to assess the cost-benefit of capacity enhancements.
-- Strategic Planning:** Development of strategic recommendations based on simulation and financial analysis to improve operational efficiency.
+- Financial Modeling: Detailed financial analysis to assess the cost-benefit of capacity enhancements.
+- Strategic Planning: Development of strategic recommendations based on simulation and financial analysis to improve operational efficiency.
 
 How to Use the Analysis:
-1. Understand the Process Flow:**
+1. Understand the Process Flow:
     - Review the process flow diagram to get a clear picture of the entire processing workflow and identify key areas of focus.
 
-2. Analyze Simulation Results:**
+2. Analyze Simulation Results:
     - Examine the simulation data to understand the impact of different capacity enhancement strategies.
 
-3. Evaluate Financial Implications:**
+3. Evaluate Financial Implications:
     - Look into the financial analysis to assess the feasibility and ROI of the proposed recommendations.
 
-4. Implement Recommendations:**
+4. Implement Recommendations:
     - Use the insights and recommendations provided to make informed decisions about capacity enhancements to improve operational efficiency.
 
 Conclusion
