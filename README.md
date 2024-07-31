@@ -1,11 +1,5 @@
 Streamlining-Cranberry-Processing-A-Simulation-Based-Approach-for-NCC
 
-
-Capacity Planning for National Cranberry Cooperative (NCC)
-
-Project Duration:** March 2024 - May 2024  
-Associated with:** University of Delaware
-
 Background:
 National Cranberry Cooperative (NCC) aimed to enhance its capacity planning to reduce truck waiting times and ensure efficient processing of cranberries.
 
@@ -32,9 +26,9 @@ National Cranberry Cooperative (NCC) aimed to enhance its capacity planning to r
     - The investment was projected to have a positive ROI and significantly improve the processing efficiency.
 
 Skills Demonstrated:
-- **Business Process Analysis:** Thorough analysis of the cranberry processing workflow to identify bottlenecks and inefficiencies.
-- **Financial Modeling:** Detailed financial analysis to assess the cost-benefit of capacity enhancements.
-- **Strategic Planning:** Development of strategic recommendations based on simulation and financial analysis to improve operational efficiency.
+- Business Process Analysis:** Thorough analysis of the cranberry processing workflow to identify bottlenecks and inefficiencies.
+- Financial Modeling:** Detailed financial analysis to assess the cost-benefit of capacity enhancements.
+- Strategic Planning:** Development of strategic recommendations based on simulation and financial analysis to improve operational efficiency.
 
 How to Use the Analysis:
 1. Understand the Process Flow:**
